@@ -27,7 +27,7 @@
     "ws": "^7.4.2"
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-commonjs": "^18.1.0",
     "@rollup/plugin-node-resolve": "^11.1.0",
     "dialog-polyfill": "^0.5.6",
     "eslint": "^7.18.0",
